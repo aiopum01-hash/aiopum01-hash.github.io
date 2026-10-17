@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.aiopum01_hash.grendark",
+        "sha256_cert_fingerprints": ["38:13:80:C3:43:6C:70:B6:EA:6D:D8:CC:85:20:FF:AA:36:6F:D2:43:94:D2:07:4F:11:65:B4:75:76:2F:04:77"]
+      }
+    }]
