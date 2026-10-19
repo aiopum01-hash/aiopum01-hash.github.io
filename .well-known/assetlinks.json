@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.aiopum01_hash.grendark",
-        "sha256_cert_fingerprints": ["38:13:80:C3:43:6C:70:B6:EA:6D:D8:CC:85:20:FF:AA:36:6F:D2:43:94:D2:07:4F:11:65:B4:75:76:2F:04:77"]
+        "sha256_cert_fingerprints": ["25:2E:6A:D5:2B:F0:77:C3:3D:B4:60:7D:6B:F7:B9:FE:14:90:E0:9C:93:5D:AD:BF:89:7F:22:44:37:63:27:B2"]
       }
     }]
